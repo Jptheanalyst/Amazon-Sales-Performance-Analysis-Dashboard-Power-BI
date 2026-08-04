@@ -23,13 +23,13 @@ To transform raw e-commerce transaction data into an interactive executive dashb
   
 ## Core Findings & Insights
 1. Balanced Category Distribution
-•	Product sales are remarkably evenly distributed across all 6 main categories (~16.4% to 16.9% revenue share each).
-•	Beauty led overall category performance at $5.55M (16.89%), closely followed by Books ($5.48M), Fashion ($5.48M), and Electronics ($5.47M).
+- Product sales are remarkably evenly distributed across all 6 main categories (~16.4% to 16.9% revenue share each).
+- Beauty led overall category performance at $5.55M (16.89%), closely followed by Books ($5.48M), Fashion ($5.48M), and Electronics ($5.47M).
 2. Geographic Market Breakdown
-•	Revenue generation is balanced globally, with the Middle East leading at $8.30M, followed by North America ($8.30M), Asia ($8.20M), and Europe ($8.10M).
+- Revenue generation is balanced globally, with the Middle East leading at $8.30M, followed by North America ($8.30M), Asia ($8.20M), and Europe ($8.10M).
 3. Payment Method Adoption
-•	Total order volume (~50,000 orders) is split evenly across payment options (approx. 10,000 orders per method).
-•	Amazon Wallet emerged as the top preferred payment method with 10,106 orders, followed by UPI, Debit Card, Cash on Delivery, and Credit Card.
+- Total order volume (~50,000 orders) is split evenly across payment options (approx. 10,000 orders per method).
+- Amazon Wallet emerged as the top preferred payment method with 10,106 orders, followed by UPI, Debit Card, Cash on Delivery, and Credit Card.
 
 ## Strategic Recommendations
 1.	Targeted Seasonality Campaigns: Capitalize on early Q1 momentum by scheduling major marketing campaigns and inventory preparation ahead of the January sales peak.
