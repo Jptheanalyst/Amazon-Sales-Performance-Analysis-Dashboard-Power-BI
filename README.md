@@ -12,5 +12,5 @@ To transform raw e-commerce transaction data into an interactive executive dashb
 - Category & Regional Insights: Visualized category performance and regional distribution, revealing balanced market share across 4 global regions and identifying Beauty ($5.55M) and Books ($5.48M) as top-grossing categories.
 - Customer Behavior Analysis: Analyzed checkout preferences across 50K total orders, pinpointing Amazon Wallet (10,106 orders) and UPI as the primary payment channels to guide customer UX optimization.
 
-- Dashboard Interaction <a href="https://github.com/Jptheanalyst/Amazon-Sales-Performance-Analysis-Dashboard-Power-BI/blob/main/Sales%20Dashboard%20Screenshot.JPG"View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Jptheanalyst/Amazon-Sales-Performance-Analysis-Dashboard-Power-BI/blob/main/Sales%20Dashboard%20Screenshot.JPG">View Dashboard</a>
 
