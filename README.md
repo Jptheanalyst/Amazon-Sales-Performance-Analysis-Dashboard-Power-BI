@@ -4,3 +4,4 @@ To transform raw e-commerce transaction data into an interactive executive dashb
 
 ## Dataset Used
 - <a href="https://github.com/Jptheanalyst/Amazon-Sales-Performance-Analysis-Dashboard-Power-BI/blob/main/amazon_sales_dataset.csv">Amazon Sales Dataset</a>
+Dataset Retrieved from :https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset
