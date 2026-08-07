@@ -33,5 +33,6 @@ To transform raw e-commerce transaction data into an interactive executive dashb
 ## Strategic Recommendations
 1.	Targeted Seasonality Campaigns: Capitalize on early Q1 momentum by scheduling major marketing campaigns and inventory preparation ahead of the January sales peak.
 2.	Category Optimization: While revenue is balanced, Beauty and Books show the highest yield—bundling these with slower categories (like Sports) could further increase basket size and overall AOV.
-3.	Payment Loyalty Programs: Expand promotional incentives (e.g., cashback or discounts) on Amazon Wallet to capitalize on its position as the preferred checkout method and reduce payment gateway friction.
+3.	Budget Allocation: Increase regional marketing budget to the Middle East since it is the top performing region while also to invest in marketing campaigns in Europe to increase sales performance.
+4.	Payment Loyalty Programs: Expand promotional incentives (e.g., cashback or discounts) on Amazon Wallet to capitalize on its position as the preferred checkout method and reduce payment gateway friction.
 
