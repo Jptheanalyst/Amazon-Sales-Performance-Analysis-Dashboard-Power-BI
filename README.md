@@ -16,18 +16,17 @@ To transform raw e-commerce transaction data into an interactive executive dashb
 ## Dashboard
 <img width="1338" height="725" alt="Sales Dashboard Screenshot" src="https://github.com/user-attachments/assets/2622390b-a4e2-43c9-9f9a-cb27d15d709e" />
 
-## Overview & Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs) & Core Insights
+1. Revenue Growth
 - Over the 2022–2023 period, total revenue reached $32.87M across 50K total orders and 150K quantities sold, yielding a strong Average Order Value (AOV) of $657.33 (an average of 3 units per order).
 - Revenue Growth: Year-over-year revenue saw slight growth, rising from $16.39M in 2022 to $16.48M in 2023 (+0.5% YoY).
 - Top Revenue Month: January 2023 recorded the highest single-month revenue across the dataset at $1.46M (contributing 4.45% of total revenue).
-  
-## Core Findings & Insights
-1. Balanced Category Distribution
+2. Balanced Category Distribution
 - Product sales are remarkably evenly distributed across all 6 main categories (~16.4% to 16.9% revenue share each).
 - Beauty led overall category performance at $5.55M (16.89%), closely followed by Books ($5.48M), Fashion ($5.48M), and Electronics ($5.47M).
-2. Geographic Market Breakdown
+3. Geographic Market Breakdown
 - Revenue generation is balanced globally, with the Middle East leading at $8.30M, followed by North America ($8.30M), Asia ($8.20M), and Europe ($8.10M).
-3. Payment Method Adoption
+4. Payment Method Adoption
 - Total order volume (~50,000 orders) is split evenly across payment options (approx. 10,000 orders per method).
 - Amazon Wallet emerged as the top preferred payment method with 10,106 orders, followed by UPI, Debit Card, Cash on Delivery, and Credit Card.
 
